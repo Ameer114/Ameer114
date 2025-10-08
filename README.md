@@ -1,4 +1,4 @@
-## Hi there 👋
+<h1>Hi there 👋</h1> 
 
 👂 My name is Ameer Nagarasi <br>
 🛄 Here's My <a href="https://ameernagarasiportfolio.netlify.app/" target="_blank" >Portfolio</a> <br>
