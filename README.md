@@ -1,6 +1,6 @@
 <h1 style="text-align:center;">Hi there 👋</h1> 
 
-👂 My name is ##Ameer Nagarasi <br>
+👂 My name is Ameer Nagarasi <br>
 🛄 Here's My <a href="https://ameernagarasiportfolio.netlify.app/" target="_blank" >Portfolio</a> <br>
 🔭 I’m currently working on OpenPort<br>🤝 I’m looking for help with Coding Stuff<br>🌱 I’m currently learning Next.Js and DSA<br>💬 Ask me about Fullstack Web Development<br>
 
