@@ -10,8 +10,8 @@
 ---
 
 ### 👨‍💻 About Me  
-- 🔭 Currently working on **OpenPort**  
-- 🌱 Learning **Next.js** and **DSA**  
+- 🔭 Currently working on **AI Powered Applications**  
+- 🌱 Learning **Gen AI** and **DSA**  
 - 🤝 Open to collaborate on **exciting web projects**  
 - 💬 Ask me about **Full Stack Web Development**  
 - ☕ Fun fact: I love building things that make people say *“Wow, that’s cool!”*  
